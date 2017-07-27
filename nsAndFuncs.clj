@@ -1,6 +1,6 @@
 ; A little introduction to namespaces and functions
 
-;creat a namespace for us to work in
+; create a namespace for us to work in
 ; a namespace is a mapping from symbol to vars or classes
 
 (ns theStart) 
